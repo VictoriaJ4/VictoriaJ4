@@ -4,9 +4,11 @@
 
 - 🔭 I’m currently working on **solo project Netfix clone.**
 
-- 🌱 I’m currently learning **everything.**
+- 🌱 I’m currently learning **React js in depth.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Victoriajuszkiewicz](https://github.com/Victoriajuszkiewicz)
+
+- I'm funnier at https://www.tiktok.com/@girl_who_codes 
 
 - 📫 How to reach me **victoria.fullstackdeveloper@gmail.com**
 
