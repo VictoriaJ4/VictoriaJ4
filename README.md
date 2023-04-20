@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **victoria.fullstackdeveloper@gmail.com**
 - 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victoriajuszkiewicz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/victoriajuszkiewicz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="victoriajuszkiewicz" height="30" width="40" /></a>
