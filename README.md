@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **solo project Netfix clone.**
 
-- 🌱 I’m currently learning **React js in depth.**
+- 🌱 I’m currently learning **React js in depth & TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Victoriajuszkiewicz](https://github.com/Victoriajuszkiewicz)
 
