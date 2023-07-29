@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Front-End web developer with 5 years of social media manager experience.</br> My passion for learning and problem-solving has led me to transition into tech where I am constantly faced with new challenges and opportunities to grow my skill set.</br> I am tech savvy, love using tech solutions for many day-to-day problems and would love to contribute to building such products that make people's day-to-day better.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/5e/0a/44/5e0a443a972750adbf6882f159335a8d.jpg">
 
-- 🔭 I’m currently working on **solo project Netfix clone.**
+- 🔭 I’m currently working on **website for my client who is a photographer**
 
-- 🌱 I’m currently learning **React js in depth & TypeScript**
+- 🌱 I’m currently learning **React js in-depth & TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Victoriajuszkiewicz](https://github.com/Victoriajuszkiewicz)
 
