@@ -10,7 +10,7 @@
 
 - I'm funnier at https://www.tiktok.com/@girl_who_codes 
 
-- 📫 How to reach me **victoria.fullstackdeveloper@gmail.com**
+- 📫 How to reach me **victoria.webdev9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
