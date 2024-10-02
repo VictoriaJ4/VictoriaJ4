@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Astarion dating simulator based on game Baldur's gate 3 character**
 
-- 🌱 I’m currently learning **React js in-depth & TypeScript**
+- 🌱 I’m currently learning **React js in-depth **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Victoriajuszkiewicz](https://github.com/Victoriajuszkiewicz)
 
