@@ -2,15 +2,17 @@
 <h3 align="center">A passionate Front-End web developer with 5 years of social media manager experience.</br> My passion for learning and problem-solving has led me to transition into tech where I am constantly faced with new challenges and opportunities to grow my skill set.</br> I am tech savvy, love using tech solutions for many day-to-day problems and would love to contribute to building such products that make people's day-to-day better.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/5e/0a/44/5e0a443a972750adbf6882f159335a8d.jpg">
 
-- 🔭 I’m currently working on **Astarion dating simulator based on game Baldur's gate 3 character**
+- 🔭 I’m currently working on **Travel website for Baldur's Gate city.**
 
-- 🌱 I’m currently learning **React js in-depth **
+- 🌱 I’m currently learning **React js in-depth, C# **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Victoriajuszkiewicz](https://github.com/Victoriajuszkiewicz)
 
 - I'm funnier at https://www.tiktok.com/@girl_who_codes 
 
 - 📫 How to reach me **victoria.webdev9@gmail.com**
+- 
+- My portfolio: (https://main--vj-webdev-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
