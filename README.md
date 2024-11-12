@@ -11,7 +11,7 @@
 - I'm funnier at https://www.tiktok.com/@girl_who_codes 
 
 - 📫 How to reach me **victoria.webdev9@gmail.com**
-- 
+  
 - My portfolio: (https://main--vj-webdev-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
