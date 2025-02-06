@@ -1,9 +1,97 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="KEz7FNdzJ_CFHDzC8aNb">
-    <mxGraphModel>
+    <mxGraphModel dx="1083" dy="1194" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-1" value="Flowchart 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-119" y="-185" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-2" target="7qoL2LoLXSoUFmWPHcJg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-2" value="START" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="55" y="-188" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-11" target="7qoL2LoLXSoUFmWPHcJg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-15" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="7qoL2LoLXSoUFmWPHcJg-14">
+          <mxGeometry x="0.0667" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-17" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-11" target="7qoL2LoLXSoUFmWPHcJg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-18" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="7qoL2LoLXSoUFmWPHcJg-17">
+          <mxGeometry x="-0.25" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-11" value="do you want to add a student?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="-72" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-13" target="7qoL2LoLXSoUFmWPHcJg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-13" value="student name" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-124" y="19" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-30" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-16" target="7qoL2LoLXSoUFmWPHcJg-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-31" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="7qoL2LoLXSoUFmWPHcJg-30">
+          <mxGeometry x="-0.3167" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-33" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-16" target="7qoL2LoLXSoUFmWPHcJg-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-34" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="7qoL2LoLXSoUFmWPHcJg-33">
+          <mxGeometry x="-0.1" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-16" value="do you want to create a report?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="212" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-19" target="7qoL2LoLXSoUFmWPHcJg-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-19" value="student age" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-124" y="116" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-24" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-64" y="341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-25" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="7qoL2LoLXSoUFmWPHcJg-24">
+          <mxGeometry x="-0.2833" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-27" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="79" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-28" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="7qoL2LoLXSoUFmWPHcJg-27">
+          <mxGeometry x="0.1333" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-21" value="another student?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-124" y="207" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-29" value="create report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-32" value="exit the program" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="183" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
