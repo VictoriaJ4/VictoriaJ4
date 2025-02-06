@@ -29,6 +29,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-55" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-11" target="7qoL2LoLXSoUFmWPHcJg-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-56" value="3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="7qoL2LoLXSoUFmWPHcJg-55">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-58" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-11" target="7qoL2LoLXSoUFmWPHcJg-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-59" value="4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="7qoL2LoLXSoUFmWPHcJg-58">
+          <mxGeometry x="-0.0833" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7qoL2LoLXSoUFmWPHcJg-11" value="Top level menu:&lt;div&gt;1 for modules&lt;/div&gt;&lt;div&gt;2 for Students&lt;/div&gt;&lt;div&gt;3 for Marks&lt;/div&gt;&lt;div&gt;4 for Grades&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="39" y="-79" width="152" height="85" as="geometry" />
         </mxCell>
@@ -36,27 +52,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7qoL2LoLXSoUFmWPHcJg-36" value="Show all modules available" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-197" y="-36" width="152" height="85" as="geometry" />
+          <mxGeometry x="-178" y="-27" width="151" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="7qoL2LoLXSoUFmWPHcJg-39" value="Top level menu:&lt;div&gt;1 for modules&lt;/div&gt;&lt;div&gt;2 for Students&lt;/div&gt;&lt;div&gt;3 for Marks&lt;/div&gt;&lt;div&gt;4 for Grades&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="133" y="51" width="152" height="85" as="geometry" />
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-39" value="Show all students" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="67" y="81" width="147" height="57" as="geometry" />
         </mxCell>
         <mxCell id="7qoL2LoLXSoUFmWPHcJg-45" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-42" target="7qoL2LoLXSoUFmWPHcJg-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7qoL2LoLXSoUFmWPHcJg-42" value="Prompt user: press 1-4 to choose module&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-197" y="96" width="152" height="85" as="geometry" />
+          <mxGeometry x="-179" y="76" width="152" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="7qoL2LoLXSoUFmWPHcJg-47" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-44" target="7qoL2LoLXSoUFmWPHcJg-46">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-47" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-102" y="309" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7qoL2LoLXSoUFmWPHcJg-44" value="Edit module (chosen) name" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-195" y="223" width="152" height="85" as="geometry" />
+          <mxGeometry x="-178" y="189" width="152" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="7qoL2LoLXSoUFmWPHcJg-49" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-46" target="7qoL2LoLXSoUFmWPHcJg-11">
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-49" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-61" target="7qoL2LoLXSoUFmWPHcJg-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-26" y="379.36666666666656" as="sourcePoint" />
             <mxPoint x="-119" y="570.5" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="-43" y="395" />
               <mxPoint x="3" y="390" />
             </Array>
           </mxGeometry>
@@ -66,8 +86,9 @@
             <mxPoint x="-1" y="-101" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7qoL2LoLXSoUFmWPHcJg-52" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7qoL2LoLXSoUFmWPHcJg-46" target="7qoL2LoLXSoUFmWPHcJg-36">
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-52" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="7qoL2LoLXSoUFmWPHcJg-36">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-169" y="395" as="sourcePoint" />
             <mxPoint x="-213" y="18" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-287" y="223" />
@@ -79,8 +100,14 @@
             <mxPoint x="11" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7qoL2LoLXSoUFmWPHcJg-46" value="Another module to edit?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-195" y="353" width="152" height="85" as="geometry" />
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-54" value="Show all marks" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="232" y="44" width="146" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-57" value="Show all grades" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="-32" width="154" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="7qoL2LoLXSoUFmWPHcJg-61" value="Another module to edit&lt;div&gt;?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-167" y="332" width="130" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
