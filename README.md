@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **Travel website for Baldur's Gate city.**
 
-- 🌱 I’m currently learning **React js in-depth, C# **
+- 🌱 I’m currently learning **C#, Python **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Victoriajuszkiewicz](https://github.com/Victoriajuszkiewicz)
 
-- I'm funnier at https://www.tiktok.com/@girl_who_codes 
+- ✌️ I'm funnier at https://www.tiktok.com/@girl_who_codes 
 
 - 📫 How to reach me **victoria.webdev9@gmail.com**
   
-- My portfolio: (https://main--vj-webdev-portfolio.netlify.app/)
+- ✨ My portfolio: (https://main--vj-webdev-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
