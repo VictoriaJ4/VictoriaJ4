@@ -3,7 +3,8 @@
 
   ![baldurs](giphydog.gif)
 
-<p>I am tech savvy, love using tech solutions for many day-to-day problems and would love to contribute to building products that make people's day-to-day better. I love games and I'm always in awe of how many elements have to work together to make big games work. 400+ hours in Baldur's gate,150+ hours Hogwards Legacy.</p>
+<p>I am tech savvy, love using tech solutions for many day-to-day problems and would love to contribute to building products that make people's day-to-day better. 
+</br>I love games and I'm always in awe of how many elements have to work together to make big games work. 400+ hours in Baldur's gate,150+ hours Hogwards Legacy.</p>
 
 - 🔭 I’m currently working on **Travel website for Baldur's Gate city.**
 
