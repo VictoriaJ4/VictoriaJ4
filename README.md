@@ -3,9 +3,7 @@
 
 ![baldurs](giphy.gif)    ![baldurs](giphydog.gif)
 
-</br>
-<p></p>I am tech savvy, love using tech solutions for many day-to-day problems and would love to contribute to building products that make people's day-to-day better. I love games and I'm always in awe of how many elements have to work together to make big games work. 400+ hours in Baldur's gate,150+ hours Hogwards Legacy.</p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/5e/0a/44/5e0a443a972750adbf6882f159335a8d.jpg">
+<p>I am tech savvy, love using tech solutions for many day-to-day problems and would love to contribute to building products that make people's day-to-day better. I love games and I'm always in awe of how many elements have to work together to make big games work. 400+ hours in Baldur's gate,150+ hours Hogwards Legacy.</p>
 
 - 🔭 I’m currently working on **Travel website for Baldur's Gate city.**
 
