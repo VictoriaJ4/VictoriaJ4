@@ -2,6 +2,7 @@
 <h3 align="center">A passionate web developer with 1 year of experience in software developement and 5 years in marketing.</br> My passion for learning and problem-solving has led me to transition into tech where I am constantly faced with new challenges and opportunities to grow my skill set. </h3>
 
 ![](https://github.com/Victoriajuszkiewicz/giphy.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 </br>
 <p></p>I am tech savvy, love using tech solutions for many day-to-day problems and would love to contribute to building products that make people's day-to-day better. I love games and I'm always in awe of how many elements have to work together to make big games work. 400+ hours in Baldur's gate,150+ hours Hogwards Legacy.</p>
