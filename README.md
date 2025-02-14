@@ -3,6 +3,7 @@
 
 ![baldurs](https://github.com/Victoriajuszkiewicz/giphy.gif)
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNobGNrcm82bWdwamhsenNpNWI0cWl6b3NocGNpenYwZGltd2JsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eNvFrywizKgTvlfwtL/giphy.gif)
 
 </br>
 <p></p>I am tech savvy, love using tech solutions for many day-to-day problems and would love to contribute to building products that make people's day-to-day better. I love games and I'm always in awe of how many elements have to work together to make big games work. 400+ hours in Baldur's gate,150+ hours Hogwards Legacy.</p>
