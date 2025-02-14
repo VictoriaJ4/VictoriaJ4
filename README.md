@@ -1,5 +1,5 @@
 <h1 align="center">Hi,Hola,Hej, I'm Victoria. 🦊</h1>
-<h3 align="center">A passionate Front-End web developer with 5 years of social media manager experience.</br> My passion for learning and problem-solving has led me to transition into tech where I am constantly faced with new challenges and opportunities to grow my skill set.</br> I am tech savvy, love using tech solutions for many day-to-day problems and would love to contribute to building such products that make people's day-to-day better.</h3>
+<h3 align="center">A passionate web developer with 1 year of experience in software developement and 5 years in marketing.</br> My passion for learning and problem-solving has led me to transition into tech where I am constantly faced with new challenges and opportunities to grow my skill set.</br> I am tech savvy, love using tech solutions for many day-to-day problems and would love to contribute to building such products that make people's day-to-day better.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/5e/0a/44/5e0a443a972750adbf6882f159335a8d.jpg">
 
 - 🔭 I’m currently working on **Travel website for Baldur's Gate city.**
