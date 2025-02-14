@@ -1,5 +1,7 @@
 <h1 align="center">Hi,Hola,Hej, I'm Victoria. 🦊</h1>
 <h3 align="center">A passionate web developer with 1 year of experience in software developement and 5 years in marketing.</br> My passion for learning and problem-solving has led me to transition into tech where I am constantly faced with new challenges and opportunities to grow my skill set. </h3>
+
+![]https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJlOGJpZHBqanNkM3U4NnVmMTQyNDQ0MjdtMGl2ZndzNGs3c2t3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q6xtWy8YKSUP609NVR/giphy.gif
 </br>
 <p></p>I am tech savvy, love using tech solutions for many day-to-day problems and would love to contribute to building products that make people's day-to-day better. I love games and I'm always in awe of how many elements have to work together to make big games work. 400+ hours in Baldur's gate,150+ hours Hogwards Legacy.</p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/5e/0a/44/5e0a443a972750adbf6882f159335a8d.jpg">
