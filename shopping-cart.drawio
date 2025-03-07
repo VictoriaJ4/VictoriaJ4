@@ -59,7 +59,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cWEf27bt0UJbqLAKhBIm-20" value="Shopping_cart" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="40" width="205" height="196" as="geometry">
+          <mxGeometry x="160" y="40" width="205" height="242" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -75,14 +75,20 @@
         <mxCell id="cWEf27bt0UJbqLAKhBIm-24" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="cWEf27bt0UJbqLAKhBIm-20">
           <mxGeometry y="104" width="205" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="cWEf27bt0UJbqLAKhBIm-25" value="withdraw(amount: float):bool" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cWEf27bt0UJbqLAKhBIm-20">
-          <mxGeometry y="112" width="205" height="28" as="geometry" />
+        <mxCell id="cWEf27bt0UJbqLAKhBIm-26" value="Add_product(): bool" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cWEf27bt0UJbqLAKhBIm-20">
+          <mxGeometry y="112" width="205" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cWEf27bt0UJbqLAKhBIm-26" value="Lodge(amount: float): bool" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cWEf27bt0UJbqLAKhBIm-20">
-          <mxGeometry y="140" width="205" height="30" as="geometry" />
+        <mxCell id="cWEf27bt0UJbqLAKhBIm-27" value="Remove_product(): void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cWEf27bt0UJbqLAKhBIm-20">
+          <mxGeometry y="142" width="205" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cWEf27bt0UJbqLAKhBIm-27" value="Check balance(): float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cWEf27bt0UJbqLAKhBIm-20">
-          <mxGeometry y="170" width="205" height="26" as="geometry" />
+        <mxCell id="cWEf27bt0UJbqLAKhBIm-30" value="Get_all_products()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cWEf27bt0UJbqLAKhBIm-20">
+          <mxGeometry y="168" width="205" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEf27bt0UJbqLAKhBIm-31" value="Calculate_total(): float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cWEf27bt0UJbqLAKhBIm-20">
+          <mxGeometry y="190" width="205" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEf27bt0UJbqLAKhBIm-32" value="Calculate_shipping_costs(): float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cWEf27bt0UJbqLAKhBIm-20">
+          <mxGeometry y="216" width="205" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cWEf27bt0UJbqLAKhBIm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.615;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cWEf27bt0UJbqLAKhBIm-10" target="cWEf27bt0UJbqLAKhBIm-7">
           <mxGeometry relative="1" as="geometry" />
