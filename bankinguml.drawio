@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1981" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -30,10 +30,10 @@
         <mxCell id="ahej4tqR_gj_TZqfoU-P-2" value="Check balance(): float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="170" width="205" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="vyFO-x141i09dufOCAoc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--6" target="zkfFHV4jXpPFQw0GAbJ--2">
+        <mxCell id="vyFO-x141i09dufOCAoc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--6" target="zkfFHV4jXpPFQw0GAbJ--2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vyFO-x141i09dufOCAoc-3" value="Inheritance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vyFO-x141i09dufOCAoc-2">
+        <mxCell id="vyFO-x141i09dufOCAoc-3" value="Inheritance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vyFO-x141i09dufOCAoc-2" vertex="1" connectable="0">
           <mxGeometry x="-0.0662" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -52,10 +52,10 @@
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--11" value="withdraw(amount:float)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--6" vertex="1">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="vyFO-x141i09dufOCAoc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--17" target="ahej4tqR_gj_TZqfoU-P-4">
+        <mxCell id="vyFO-x141i09dufOCAoc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--17" target="ahej4tqR_gj_TZqfoU-P-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vyFO-x141i09dufOCAoc-4" value="Inheritance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vyFO-x141i09dufOCAoc-1">
+        <mxCell id="vyFO-x141i09dufOCAoc-4" value="Inheritance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vyFO-x141i09dufOCAoc-1" vertex="1" connectable="0">
           <mxGeometry x="-0.2091" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -73,9 +73,6 @@
         </mxCell>
         <mxCell id="ahej4tqR_gj_TZqfoU-P-5" value="CalculateInterest(): float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--17" vertex="1">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ahej4tqR_gj_TZqfoU-P-0" value="&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: rgb(0, 32, 91); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot;&gt;Create a UML diagram for the design of a basic bank account. The design should account for two&amp;nbsp;distinct types of accounts, deposit accounts and current accounts. Current accounts will have a fixed transaction fees which will apply to all withdrawals. Deposit accounts will have a set interest rate&amp;nbsp;which will be used to calculate interest for the account (balance * interest rate).&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: rgb(0, 32, 91); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot;&gt;o&amp;nbsp;&lt;span style=&quot;box-sizing: border-box; font-weight: bolder;&quot;&gt;Attributes&lt;/span&gt;: Account Number, Account Balance,&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: rgb(0, 32, 91); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot;&gt;Transaction Fee&amp;nbsp;(Deposit)&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: rgb(0, 32, 91); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot;&gt;Interest Rate (deposit), Transaction Fee&amp;nbsp;(current)&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: rgb(0, 32, 91); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-size: 0.9375rem;&quot;&gt;o&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; font-size: 0.9375rem;&quot;&gt;Functionality&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; font-size: 0.9375rem;&quot;&gt;: Withdraw, Lodge, Check Balance&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: rgb(0, 32, 91); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-size: 0.9375rem;&quot;&gt;Calculate Interest (deposit account)&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-20" y="-10" width="790" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
