@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="g5vXmAB2UkSqzC7_Wi9n">
-    <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
         <mxCell id="I1259xhRLEgN1ugOB08U-5" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="I1259xhRLEgN1ugOB08U-1" vertex="1">
           <mxGeometry y="158" width="205" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="I1259xhRLEgN1ugOB08U-7" value="+ Get_Cost(): float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="I1259xhRLEgN1ugOB08U-1" vertex="1">
+        <mxCell id="I1259xhRLEgN1ugOB08U-7" value="+ get_cost(): float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="I1259xhRLEgN1ugOB08U-1" vertex="1">
           <mxGeometry y="166" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I1259xhRLEgN1ugOB08U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="I1259xhRLEgN1ugOB08U-11" target="I1259xhRLEgN1ugOB08U-7" edge="1">
@@ -38,7 +38,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I1259xhRLEgN1ugOB08U-11" value="Physical_Item" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=1;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="I1259xhRLEgN1ugOB08U-11" value="PhysicalItem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=1;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="60" y="311" width="210" height="112" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -49,7 +49,7 @@
         <mxCell id="I1259xhRLEgN1ugOB08U-13" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="I1259xhRLEgN1ugOB08U-11" vertex="1">
           <mxGeometry y="52" width="210" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="I1259xhRLEgN1ugOB08U-14" value="+ Get_Cost(): float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="I1259xhRLEgN1ugOB08U-11" vertex="1">
+        <mxCell id="I1259xhRLEgN1ugOB08U-14" value="+ get_cost(): float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="I1259xhRLEgN1ugOB08U-11" vertex="1">
           <mxGeometry y="60" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="I1259xhRLEgN1ugOB08U-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I1259xhRLEgN1ugOB08U-17" target="I1259xhRLEgN1ugOB08U-7" edge="1">
@@ -60,7 +60,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I1259xhRLEgN1ugOB08U-17" value="Digital_Item" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="I1259xhRLEgN1ugOB08U-17" value="DigitalItem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="365" y="311" width="165" height="139" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -71,7 +71,7 @@
         <mxCell id="I1259xhRLEgN1ugOB08U-19" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="I1259xhRLEgN1ugOB08U-17" vertex="1">
           <mxGeometry y="52" width="165" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="I1259xhRLEgN1ugOB08U-20" value="+ Get_URL():str" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="I1259xhRLEgN1ugOB08U-17" vertex="1">
+        <mxCell id="I1259xhRLEgN1ugOB08U-20" value="+ get_URL():str" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="I1259xhRLEgN1ugOB08U-17" vertex="1">
           <mxGeometry y="60" width="165" height="26" as="geometry" />
         </mxCell>
         <mxCell id="I1259xhRLEgN1ugOB08U-21" value="&lt;font&gt;attributes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textOpacity=60;fontSize=9;" parent="1" vertex="1">
@@ -80,7 +80,7 @@
         <mxCell id="I1259xhRLEgN1ugOB08U-22" value="&lt;font&gt;operations&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textOpacity=60;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="145" y="170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I1259xhRLEgN1ugOB08U-23" value="Shopping_Cart" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;" parent="1" vertex="1">
+        <mxCell id="I1259xhRLEgN1ugOB08U-23" value="ShoppingCart" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="60" width="250" height="210" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -91,23 +91,23 @@
         <mxCell id="I1259xhRLEgN1ugOB08U-28" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="I1259xhRLEgN1ugOB08U-23" vertex="1">
           <mxGeometry y="52" width="250" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="I1259xhRLEgN1ugOB08U-29" value="+ Add_Items():void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="I1259xhRLEgN1ugOB08U-23" vertex="1">
+        <mxCell id="I1259xhRLEgN1ugOB08U-29" value="+ add_Items()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="I1259xhRLEgN1ugOB08U-23" vertex="1">
           <mxGeometry y="60" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-t2RpOjE0i4wilOCwamS-1" value="+ Remove_item(): bool" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="I1259xhRLEgN1ugOB08U-23">
+        <mxCell id="-t2RpOjE0i4wilOCwamS-1" value="+ remove_item(): bool" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="I1259xhRLEgN1ugOB08U-23">
           <mxGeometry y="90" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-t2RpOjE0i4wilOCwamS-2" value="+ Get_all_items(): list" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="I1259xhRLEgN1ugOB08U-23">
+        <mxCell id="-t2RpOjE0i4wilOCwamS-2" value="+ get_all_items(): list" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="I1259xhRLEgN1ugOB08U-23">
           <mxGeometry y="120" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-t2RpOjE0i4wilOCwamS-3" value="+ Calculate_cost(): float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="I1259xhRLEgN1ugOB08U-23">
+        <mxCell id="-t2RpOjE0i4wilOCwamS-3" value="+ calculate_cost(): float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="I1259xhRLEgN1ugOB08U-23">
           <mxGeometry y="150" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-t2RpOjE0i4wilOCwamS-4" value="+ Calculate_shipping_charges(): float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="I1259xhRLEgN1ugOB08U-23">
+        <mxCell id="-t2RpOjE0i4wilOCwamS-4" value="+ calculate_shipping_charges(): float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="I1259xhRLEgN1ugOB08U-23">
           <mxGeometry y="180" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-t2RpOjE0i4wilOCwamS-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="940" width="60" height="30" as="geometry" />
+        <mxCell id="-t2RpOjE0i4wilOCwamS-7" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;1. OOP it&#39;s a computer programming model that organises software design around data or objects,&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;rather than functions. OOP focuses on the objects that developers want to manipulate rather&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;than the logic required to manipulate them.&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Advantages:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-indent: -18pt;&quot;&gt;1.&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-indent: -18pt;&quot;&gt;Reusability- code can be reused trough&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;p style=&quot;text-indent:-18.0pt;mso-list:l1 level1 lfo1&quot; class=&quot;MsoListParagraphCxSpFirst&quot;&gt;inheritance, team does not have to write the same code multiple times.&lt;/p&gt;&lt;p style=&quot;text-indent:-18.0pt;mso-list:l1 level1 lfo1&quot; class=&quot;MsoListParagraphCxSpFirst&quot;&gt;&lt;span style=&quot;text-indent: -18pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2.p&lt;/span&gt;&lt;span style=&quot;text-indent: -18pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;roductivity- programmers can construct new&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent:-18.0pt;mso-list:l1 level1 lfo1&quot; class=&quot;MsoListParagraphCxSpMiddle&quot;&gt;programs quickly through the use of multiple libraries.&lt;/p&gt;&lt;p style=&quot;text-indent:-18.0pt;mso-list:l1 level1 lfo1&quot; class=&quot;MsoListParagraphCxSpLast&quot;&gt;3.Lower cost-comes from reusability as classes and&lt;br&gt;objects can be reused reducing development time and effort.&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Principles:&lt;/p&gt;&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo2&quot; class=&quot;MsoListParagraphCxSpFirst&quot;&gt;1.&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-family: &amp;quot;Times New Roman&amp;quot;; line-height: 100%;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;Encapsulation-helps to control who can access or&lt;br&gt;change the data inside your class object. This allows to write clean, readable,&lt;br&gt;and efficient code and prevent accidental changes or deletion of class data.&lt;/p&gt;&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo2&quot; class=&quot;MsoListParagraphCxSpMiddle&quot;&gt;2.&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-family: &amp;quot;Times New Roman&amp;quot;; line-height: 100%;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;Abstraction- hides unnecessary details and only&lt;br&gt;shows the important parts of an object or process. It provides a simpler&lt;br&gt;interface. It helps make code simpler and easier to use by focusing on what&lt;br&gt;something does instead of how it works.&lt;/p&gt;&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo2&quot; class=&quot;MsoListParagraphCxSpMiddle&quot;&gt;&lt;span style=&quot;text-indent: -18pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3.&lt;/span&gt;&lt;span style=&quot;text-indent: -18pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Inheritance-&lt;/span&gt;&lt;span style=&quot;text-indent: -18pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Inheritance allows&amp;nbsp; to define a&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo2&quot; class=&quot;MsoListParagraphCxSpMiddle&quot;&gt;class that inherits all the methods and properties from another class. &lt;b&gt;Parent&lt;br&gt;class&lt;/b&gt;&amp;nbsp;is the class being inherited from, also called base class. &lt;b&gt;Child&lt;br&gt;class&lt;/b&gt;&amp;nbsp;is the class that inherits from another class, also called&lt;br&gt;derived class.&lt;/p&gt;&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo2&quot; class=&quot;MsoListParagraphCxSpLast&quot;&gt;4.&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-family: &amp;quot;Times New Roman&amp;quot;; line-height: 100%;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;Polymorphism- allows the same action to be&lt;br&gt;performed in different ways, depending of the object using it. It helps make&lt;br&gt;code flexible and reusable by allowing one function or method to work with&lt;br&gt;different types of data.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo2&quot; class=&quot;MsoListParagraphCxSpLast&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div style=&quot;mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.5pt;&lt;br/&gt;padding:0cm 0cm 1.0pt 0cm;margin-left:18.0pt;margin-right:0cm&quot;&gt;&lt;br/&gt;&lt;br/&gt;&lt;p style=&quot;border:none;mso-border-bottom-alt:solid windowtext 1.5pt;&lt;br/&gt;padding:0cm;mso-padding-alt:0cm 0cm 1.0pt 0cm&quot; class=&quot;MsoNormal&quot;&gt;Unit testing could be&lt;br/&gt;implemented by creating new file and importing unittest. &lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;p style=&quot;border:none;mso-border-bottom-alt:solid windowtext 1.5pt;&lt;br/&gt;padding:0cm;mso-padding-alt:0cm 0cm 1.0pt 0cm&quot; class=&quot;MsoNormal&quot;&gt;Unittest is a python library used&lt;br/&gt;for testing code. The&amp;nbsp;unittest&amp;nbsp;package has an object-oriented&lt;br/&gt;approach where test cases derive from a base class, which has several useful&lt;br/&gt;methods.&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;textOpacity=20;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1110" width="530" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
