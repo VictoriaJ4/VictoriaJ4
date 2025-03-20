@@ -63,11 +63,84 @@
         <mxCell id="2T-HQQL5zmfzXAJ99Udx-12" value="show messagebox askin user to type task to add" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2T-HQQL5zmfzXAJ99Udx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2T-HQQL5zmfzXAJ99Udx-15" target="2T-HQQL5zmfzXAJ99Udx-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2T-HQQL5zmfzXAJ99Udx-15" value="Update list box, display tasks to listbox" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2T-HQQL5zmfzXAJ99Udx-16" value="Adding task to the list" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="25" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2T-HQQL5zmfzXAJ99Udx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2T-HQQL5zmfzXAJ99Udx-19" target="2T-HQQL5zmfzXAJ99Udx-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2T-HQQL5zmfzXAJ99Udx-19" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2T-HQQL5zmfzXAJ99Udx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2T-HQQL5zmfzXAJ99Udx-24" target="2T-HQQL5zmfzXAJ99Udx-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="855" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2T-HQQL5zmfzXAJ99Udx-21" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2T-HQQL5zmfzXAJ99Udx-20">
+          <mxGeometry x="-0.3312" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2T-HQQL5zmfzXAJ99Udx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2T-HQQL5zmfzXAJ99Udx-24" target="2T-HQQL5zmfzXAJ99Udx-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="765" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2T-HQQL5zmfzXAJ99Udx-23" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2T-HQQL5zmfzXAJ99Udx-22">
+          <mxGeometry x="-0.2802" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2T-HQQL5zmfzXAJ99Udx-24" value="Is the task selected?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="359" y="670" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2T-HQQL5zmfzXAJ99Udx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2T-HQQL5zmfzXAJ99Udx-26" target="2T-HQQL5zmfzXAJ99Udx-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2T-HQQL5zmfzXAJ99Udx-26" value="Check the index of selected task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2T-HQQL5zmfzXAJ99Udx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2T-HQQL5zmfzXAJ99Udx-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2T-HQQL5zmfzXAJ99Udx-28" value="Check currect colour of selected task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2T-HQQL5zmfzXAJ99Udx-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2T-HQQL5zmfzXAJ99Udx-30" target="2T-HQQL5zmfzXAJ99Udx-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="885" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="885" />
+              <mxPoint x="414" y="885" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2T-HQQL5zmfzXAJ99Udx-30" value="show messagebox informing user they didnt select task to delete" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="735" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2T-HQQL5zmfzXAJ99Udx-33" value="Remove task from the list" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="600" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2T-HQQL5zmfzXAJ99Udx-34" value="What colour is the task currectly?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="1000" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
