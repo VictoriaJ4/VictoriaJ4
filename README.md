@@ -1,5 +1,6 @@
 <h1 align="center">Hi,Hola,Hej, I'm Victoria. 🦊</h1>
-<h3 align="center">A passionate web developer with 1 year of experience in software developement and 5 years in marketing.</br> My passion for learning and problem-solving has led me to transition into tech where I am constantly faced with new challenges and opportunities to grow my skill set. </h3>
+<h3 align="center">Spent 5 years in digital marketing, then did something crazy: went to a coding bootcamp. Now I build end-to-end — React, TypeScript, Figma projects — without losing the human thread. Marketing brain, developer hands. </br>
+Off the clock I'm deep in a strategy campaign or a cozy game. My familiar on every quest, my dog: William.</h3>
 
   ![baldurs](giphydog.gif)
 
@@ -17,6 +18,12 @@
 - 📫 How to reach me **victoria.webdev9@gmail.com**
   
 - ✨ My portfolio: (https://main--vj-webdev-portfolio.netlify.app/)
+
+  <h3>Latest games<h3>
+
+Baldur's Gate 3	400+ h
+Hogwarts Legacy	150+ h
+Dragon Age: Inquisition	30h
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
