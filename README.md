@@ -17,7 +17,7 @@ Off the clock I'm deep in a strategy campaign or a cozy game. My familiar on eve
 
 - 📫 How to reach me **victoria.webdev9@gmail.com**
   
-- ✨ My portfolio: (https://main--vj-webdev-portfolio.netlify.app/)
+- ✨ My portfolio: ([https://main--vj-webdev-portfolio.netlify.app/](https://portfolio-victoria-jusz.netlify.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
