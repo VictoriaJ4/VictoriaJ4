@@ -5,11 +5,11 @@ Off the clock I'm deep in a strategy campaign or a cozy game. My familiar on eve
   ![baldurs](giphydog.gif)
 
 <p>I am tech savvy, love using tech solutions for many day-to-day problems and would love to contribute to building products that make people's day-to-day better. 
-</br>I love games and I'm always in awe of how many elements have to work together to make big games work. 400+ hours in Baldur's gate,150+ hours Hogwards Legacy.</p>
+</br>I love games and I'm always in awe of how many elements have to work together to make big games work. 500+ hours in Baldur's gate,150+ hours Hogwards Legacy.</p>
 
 - 🔭 I’m currently working on **Travel website for Baldur's Gate city.**
 
-- 🌱 I’m currently learning **C#, Python **
+- 🌱 I’m currently learning **TypeScript, Python **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Victoriajuszkiewicz](https://github.com/Victoriajuszkiewicz)
 
@@ -18,12 +18,6 @@ Off the clock I'm deep in a strategy campaign or a cozy game. My familiar on eve
 - 📫 How to reach me **victoria.webdev9@gmail.com**
   
 - ✨ My portfolio: (https://main--vj-webdev-portfolio.netlify.app/)
-
-  <h3>Latest games<h3>
-
-Baldur's Gate 3	400+ h
-Hogwarts Legacy	150+ h
-Dragon Age: Inquisition	30h
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
